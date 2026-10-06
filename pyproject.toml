@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "fenwick-jobs"
+version = "0.1.0"
+description = "Batch jobs for a daily digest and image resizing"
+requires-python = ">=3.11"
+dependencies = ["pillow==12.3.0"]
+
+[tool.setuptools]
+packages = ["fenwick_jobs"]
+
+[tool.setuptools.package-dir]
+fenwick_jobs = "jobs"

@@ -1,0 +1,16 @@
+{
+  "items": [
+    {"id": 1, "date": "2026-10-01", "category": "orders", "title": "Order volume up 4% week over week", "score": 72},
+    {"id": 2, "date": "2026-10-01", "category": "support", "title": "Two tickets about slow exports", "score": 55},
+    {"id": 3, "date": "2026-10-02", "category": "orders", "title": "Largest order of the month from Northfield", "score": 91},
+    {"id": 4, "date": "2026-10-02", "category": "billing", "title": "Three invoices paid late", "score": 40},
+    {"id": 5, "date": "2026-10-03", "category": "support", "title": "Password reset emails delayed by 20 minutes", "score": 68},
+    {"id": 6, "date": "2026-10-03", "category": "orders", "title": "First order from the new reseller channel", "score": 83},
+    {"id": 7, "date": "2026-10-03", "category": "billing", "title": "Refund issued for a duplicate charge", "score": 47},
+    {"id": 8, "date": "2026-10-04", "category": "orders", "title": "Weekend orders flat", "score": 30},
+    {"id": 9, "date": "2026-10-05", "category": "support", "title": "Feature request: bulk address edit", "score": 61},
+    {"id": 10, "date": "2026-10-06", "category": "orders", "title": "Monday backlog cleared before noon", "score": 77},
+    {"id": 11, "date": "2026-10-06", "category": "billing", "title": "Quarterly invoices generated", "score": 88},
+    {"id": 12, "date": "2026-10-06", "category": "support", "title": "One escalation, resolved same day", "score": 64}
+  ]
+}
