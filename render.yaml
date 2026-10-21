@@ -1,0 +1,11 @@
+services:
+  - type: cron
+    name: fenwick-digest
+    runtime: python
+    plan: starter
+    schedule: "0 6 * * *"
+    buildCommand: pip install -e .
+    startCommand: python -m fenwick_jobs.digest
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.12.8
